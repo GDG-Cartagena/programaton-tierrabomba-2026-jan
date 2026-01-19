@@ -33,3 +33,44 @@ Presentación de demos finales ante un panel de jueces para evaluar la innovaci�
 ---
 
 **GDG Cartagena** - Conectando la tecnología con la comunidad. 🌊💻
+
+
+# 🏆 Hackathon Express: Programatón Tierra Bomba 2026
+
+¡Bienvenidos al centro de innovación de **GDG Cartagena**! Este evento en la Isla de Tierra Bomba es un espacio para transformar realidades a través de la tecnología.
+
+---
+
+## 🚀 Lema: Aprende, Crea y Compite
+
+### 1. 📚 Fase: Aprende (Retos de Programación)
+El objetivo de esta fase es dominar las herramientas antes de construir. Los retos para el **Study Jam** son:
+* **Reto JS-Inicio:** Crear una función lógica que calcule el impacto social de un proyecto educativo.
+* **Reto Web-Básico:** Diseñar una estructura HTML/CSS que presente la historia de la Isla de Tierra Bomba.
+* **Cloud Quest:** Completar el laboratorio de "Fundamentos de Google Cloud" en **Cloud Skills Boost**.
+
+### 2. ⚖️ Fase: Crea (Reglamento de la Competencia)
+Para mantener un ambiente profesional y colaborativo (detalles completos en nuestra [Wiki](../../wiki)):
+* **Propiedad Intelectual:** Todo el código debe ser abierto bajo la **Licencia MIT**.
+* **Equipos:** Grupos de máximo 4 personas, fomentando la diversidad y la inclusión de género (Apoyo WTM).
+* **Uso de Herramientas:** Es obligatorio implementar al menos un servicio de **Google Cloud o Firebase**.
+* **Comportamiento:** Respeto total a la comunidad local y seguimiento del Código de Conducta de Google.
+
+### 3. 🤝 Fase: Compite (Sponsors y Comunidades Aliadas)
+Este evento es posible gracias al apoyo de quienes creen en el talento de Cartagena:
+* **Sponsors Oro:** Aquabyte.
+* **Comunidades Aliadas:** * **WTM Cartagena / Barranquilla:** Liderando la inclusión de mujeres en tecnología. 💜
+    * **Fundación Código Abierto:** Apoyo en mentoría técnica.
+    * **SENA:** Aliado en formación técnica local.
+
+
+
+
+---
+
+## 🛠️ Stack Tecnológico Sugerido
+* **Frontend:** JavaScript / Web.
+* **Backend & Hosting:** Firebase / Google Cloud Platform.
+* **Educación:** Google Skills Boost.
+
+"Conectando el talento de la isla con el futuro digital." 🌴💻🚀
